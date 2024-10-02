@@ -6,7 +6,8 @@
  <p>A quick preview of the Amazon website clone.</p>
 <div align='center'>
  
-![Zight Recording 2024-09-25 at 02 04 55 AM](https://github.com/user-attachments/assets/77a21178-80da-44d5-8b9a-f55564431c67)
+![Zight Recording 2024-09-26 at 09 12 40 PM](https://github.com/user-attachments/assets/6c90c162-67a7-4a47-965d-7789a7cb336f)
+
 
 </div>
 <h2>🛠️ Technologies Used</h2>
